@@ -349,7 +349,7 @@ body {
     height: 22px;
     display: block;
     background-color: #ffc107;
-    border: 4px solid;
+    border: 4px solid  #1a2537;
     outline: 3px solid #f8c50a;
     border-radius: 50%;
     transition: 0.3s;
